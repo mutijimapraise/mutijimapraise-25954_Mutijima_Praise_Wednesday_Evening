@@ -22,8 +22,3 @@ This Java program demonstrates various types of exceptions, both checked and unc
 
 - Features a **menu-driven interface** to allow repeated testing of exceptions.
 
-## Usage
-1. Compile the program using:
-   ```bash
-   javac ExceptionExamples.java
-
